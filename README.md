@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
- Programming Fundammentals Project in C++
+# Basic Tic-Tac-Toe
+Programming Fundammentals Project in C++
